@@ -1,2 +1,3 @@
-# hello-world
-Hello world new project template.
+# 合成大西瓜cocoscreator工程文件
+请勿用作商业用途！如您用作商业用途出现的版权纠纷与本作者无关，望知悉！如您有任何问题，可以添加微信wqm994来联系我，或者邮箱1589797819@qq.com.你也可以去我的B站联系我，我的B站主页网址：
+https://space.bilibili.com/19224312    最后，祝大家学习愉快，喜欢的不要忘了给星星哦！！
